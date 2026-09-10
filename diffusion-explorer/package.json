@@ -1,9 +1,0 @@
-{
-  "name": "diffusion-explorer",
-  "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
-  "dependencies": {}
-}
